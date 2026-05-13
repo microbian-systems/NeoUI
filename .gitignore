@@ -13,6 +13,13 @@ TestResults/
 .dotnet/
 packages/
 
+# User
+.vs/
+.idea/
+.vscode/
+*.lscache
+.frolic*.json
+
 # Blazor
 **/wwwroot/css/app.css*
 
@@ -43,3 +50,4 @@ NUL
 DEV-TASKS.md
 .instructions
 .reviews
+.fake
